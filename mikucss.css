@@ -10,10 +10,34 @@ body {
 
 
 h1 {
-     color:red;
-     font-size:100px;
+    text-align:center;
+     color: #39c5bb;
+     font-size:70px;
  }
 p{
+
     color: #6636ff;
-    font-size:100px
+    font-size:50px
+}
+#介绍{
+    text-align:center;
+    font-size: 25px;
+    height: 70px;
+    width:inherit;
+    display:block;
+    white-space:normal;
+}
+.divcss5{
+    border:1px solid #00F;
+    height:120px;
+    width:200px;
+    word-wrap:break-word
+}
+
+#img{
+    padding-left: 50%;
+    border-top-style: solid;
+    border-top-width: 0px;
+    padding-top: 0px;
+    margin-top: -249px;
 }
