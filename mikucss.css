@@ -7,15 +7,12 @@ body {
     overflow: hidden;
 <!--"啊！这波是自适应背景图片" -->
 }
-
-
 h1 {
     text-align:center;
      color: #39c5bb;
      font-size:70px;
  }
 p{
-
     color: #6636ff;
     font-size:50px
 }
@@ -33,7 +30,6 @@ p{
     width:200px;
     word-wrap:break-word
 }
-
 #img{
     padding-left: 20%;
     border-top-style: solid;
